@@ -1,7 +1,7 @@
 # Changelog for markdown
    
 ## vNEXT - ???
- 
+  
 - Use JSHint to validate code style and fix numerous warnings it flagged up
   ([#65]) Thanks [XhmikosR](https://github.com/XhmikosR)!
 - Fix (yet more! gah) global variable leaks ([#99])
