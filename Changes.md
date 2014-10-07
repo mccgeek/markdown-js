@@ -1,5 +1,5 @@
 # Changelog for markdown
-  
+   
 ## vNEXT - ???
 
 - Use JSHint to validate code style and fix numerous warnings it flagged up
