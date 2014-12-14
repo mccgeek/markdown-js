@@ -1,3 +1,4 @@
+// testing codehub
 if (typeof define !== 'function') { var define = require('amdefine')(module) }
 
 define(['./markdown_helpers', './core'], function(MarkdownHelpers, Markdown) {
